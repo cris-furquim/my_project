@@ -1,0 +1,1 @@
+print('This is my first python scrip whitten in VS Code')
